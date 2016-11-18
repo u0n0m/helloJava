@@ -85,6 +85,7 @@ public class calculatorMain {
       }while(continueVal.equals("y"));     
    
       System.out.println("종료되었습니다."); 
+      System.out.println("종료되었습니다."); 
    }     
      
    public static int indexOfChar(Pattern pattern, String s) { 
